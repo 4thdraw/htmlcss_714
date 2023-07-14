@@ -1,0 +1,24 @@
+.d-flex{
+    display: flex;
+}
+.jcb{
+    justify-content: space-between;
+}
+.jcc{
+    justify-content: center;
+}
+.jce{
+    justify-content: end;
+}
+
+.d-none{
+    display: none;
+}
+.d-block{
+    display: block;
+}
+
+.w-100{
+    width:100%;
+}
+
